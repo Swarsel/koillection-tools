@@ -1,8 +1,6 @@
-# Python template using uv2nix
+# Koillection-tools
 
-This template flake provides a python environment that is being managed by `uv` while still keeping the store managed by `nix`.
-
-## Setup
+## Setup env
 
 1) Enter project directory
 2) `project python`
@@ -21,14 +19,3 @@ password: yyy
 
 use `get.py` to download a card list from https://limitlesstcg.com, for example https://limitlesstcg.com/cards/BS.
 The run `post.py` and give it the link to your koillection wishlist and the csv created when prompted.
-
-### Testing
-
-- run `nix flake check`
-
-###### Note for Emacs users
-
-It can happen that Emacs will not immediately pick up on the new environment after you have made your changes. In that case, perform the following steps in Emacs (this is for a setup using `envrc.el` and `eglot`):
-
-1) `(envrc-reload)`
-2) `(eglot)`
