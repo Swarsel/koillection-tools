@@ -1,0 +1,7 @@
+__pycache__
+.direnv
+image
+.jpg
+.png
+.webp
+credentials.txt
