@@ -1,0 +1,408 @@
+id,name,image_url,description,rarity
+SP-115,笑顔の女の子,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-115_C.jpg,"EYE: Eyelashes
+MOUTH: Laugh
+TRIBE: PWAG",C
+SP-116,ときめき,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-116_R.jpg,"EYE: Open
+MOUTH: Lick
+EYEWARE: Throbbing
+TRIBE: LBWLB",R
+SP-117,スーパーマッドボムゲーム,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-117_C.jpg,"EYE: Eyelashes
+MOUTH: Smirk
+BACKGROUND: Super Mad Bomb Game
+TRIBE: CMGPB",C
+SP-118,レインボーグラス,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-118_R.jpg,"MOUTH: Smile
+EYEWARE: Rainbow Glasses
+TRIBE: BGRB",R
+SP-119,炎,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-119_C.jpg,"EYE: Surprised
+MOUTH: Tongue Out
+BACKGROUND: Flame
+TRIBE: PRBPB",C
+SP-121,おめかしした女の子,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-121_C.jpg,"EYE: Eyelashes
+MOUTHWARE: Full Lips
+ACCESSORY: Earrings,Ribbon
+BACKGROUND:
+Luminous
+TRIBE: VRVLV",C
+SP-122,ひらめき,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-122_C.jpg,"EYE: Wink
+MOUTH: Dissatisfied
+ACCESSORY: Speech Bubble_Surprised
+TRIBE: VLPLVCR",C
+SP-123,ショックで目が回る,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-123_R.jpg,"MOUTH: Tongue Out
+EYEWARE: Dizzy
+BACKGROUND: Shock
+TRIBE: LBDRCR",R
+SP-124,九州ラーメン,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-124_C.jpg,"EYE: Surprised
+MOUTH: Satisfied
+MOUTHWARE: Ramen
+TRIBE: PBWSB",C
+SP-125,ネオン,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-125_C.jpg,"EYE: Open
+MOUTH: Smirk
+COSTUME: Neon
+TRIBE: DBLBBB",C
+SP-126,イバラ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-126_R.jpg,"EYE: Cross Eyes
+MOUTH: Hematemesis
+ACCESSORY: Thorns
+TRIBE: DBPYCB",R
+SP-127,五重塔,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-127_R.jpg,"EYE: Eyelashes
+MOUTH: Dissatisfied
+BACKGROUND: Five-storied Pagoda
+TRIBE: NBPBCBBB",R
+SP-128,シャンプーハット,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-128_C.jpg,"EYE: Cross Eyes
+MOUTH: Tongue Out
+ACCESSORY: Shampoo Hat
+TRIBE: PPWRP",C
+SP-129,酔っぱらい 生ビール,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-129_C.jpg,"EYE: Wink
+MOUTH: Smirk
+ACCESSORY: Drunk with Draft Beer
+TRIBE: PCCPGRV",C
+SP-130,衝撃の事実,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-130_R.jpg,"EYE: Eyelashes
+MOUTH: Dissatisfied
+BACKGROUND: Shock
+TRIBE: RVRRVLV",R
+SP-131,ウィリアムテル,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-131_SR.jpg,"EYE: Wink
+MOUTH: Tongue Out
+ACCESSORY: William Tell
+TRIBE: DRLVCR",SR
+SP-132,LED ヘルメット,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-132_R.jpg,"MOUTH: Laugh
+COSTUME: LED Helmet
+TRIBE: DBWCR",R
+SP-133,はちまき,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-133_C.jpg,"EYE: Open
+MOUTH: Smirk
+ACCESSORY: Headband
+TRIBE: LSBWTB",C
+SP-134,サマーバカンス,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-134_C.jpg,"MOUTH: Smile
+EYEWARE: RAYGAN Sunglasses
+MOUTHWARE: Watermelon
+BACKGROUND: Sun
+TRIBE:
+BTBCB",C
+SP-135,スペースシューティングウォーズ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-135_R.jpg,"EYE: Sleeping
+MOUTH: Smile
+BACKGROUND: Space Shooting Wars
+TRIBE: LLBGMBRB",R
+SP-136,子供お花,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-136_R.jpg,"COSTUME: Child Flower
+BACKGROUND: Luminous
+TRIBE: LPPPBA",R
+SP-137,スーパーゾンビ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-137_SR.jpg,"EYE: Crying
+MOUTH: Surprised
+MASK: Super Zombie
+TRIBE: PABVG",SR
+SP-138,エンジェルパイロット,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-138_C.jpg,"EYE: Cross Eyes
+MOUTH: Smirk
+EYEWARE: Pilot Goggles
+COSTUME: Anrel Ring
+TRIBE: VMLPDP",C
+SP-139,片睨みメンチ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-139_C.jpg,"MOUTH: Dissatisfied
+EYEWARE: One-sided Glare
+TRIBE: CDVRR",C
+SP-140,ハンバーガー,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-140_C.jpg,"EYE: Looking Away
+MOUTH: Lick
+EYEWARE: Pilot Goggles
+ACCESSORY: Hamburger
+TRIBE: RARCA",C
+SP-141,笑顔でウインク,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-141_C.jpg,"EYE: Wink
+MOUTH: Laugh
+TRIBE: ODRODR",C
+SP-142,スノーボード,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-142_C.jpg,"COSTUME: Child Flower Snowboard
+TRIBE: LBMB",C
+SP-143,ヘッドホンで音楽を聞く,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-143_C.jpg,"EYE: Eyelashes
+MOUTH: Smirk
+ACCESSORY: Headphones
+TRIBE: CPBDB",C
+SP-144,酔っぱらい シャンパン,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-144_C.jpg,"EYE: ダブル Wink
+MOUTH: Drool
+ACCESSORY: Drunk with Champagne
+TRIBE: BGWCVA",C
+SP-145,スポットライト,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-145_C.jpg,"EYE: Eyelashes
+MOUTH: Tongue Out
+BACKGROUND: Spotlight
+TRIBE: PCBVP",C
+SP-146,ドクロ顔,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-146_R.jpg,"MASK: Skull Face
+BACKGROUND: Arabesque Pattern
+TRIBE: PPWRP",R
+SP-147,SAITAMA チェンソー,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-147_C.jpg,"ACCESSORY: Chainsaw
+COSTUME: Ice Hockey
+TRIBE: PCCPGRV",C
+SP-148,タバコがうまい,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-148_C.jpg,"EYE: Cross Eyes
+MOUTH: Lick
+MOUTHWARE: Tasty Cigarette
+TRIBE: RVRRVLV",C
+SP-149,涙の滝,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-149_C.jpg,"EYE: Eyelashes
+MOUTH: Smile
+EYEWARE: Waterfall of Tears
+TRIBE: PPWOOR",C
+SP-150,エアメール,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-150_C.jpg,"EYE: Eyelashes
+MOUTH: Tongue Out
+ACCESSORY: Air Mail
+TRIBE: POOO",C
+SP-151,目からビーム,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-151_R.jpg,"EYE: Open
+MOUTH: Tongue Out
+EYEWARE: Beam from the Eyes
+TRIBE: ALBBBRB",R
+SP-152,ドラキュラ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-152_R.jpg,"COSTUME: Dracula
+TRIBE: DBMBDB",R
+SP-153,ラブ&キス,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-153_C.jpg,"MASK: Love & Kiss
+TRIBE: BVVLVV",C
+SP-154,忍者,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-154_R.jpg,"EYE: Cross Eyes
+COSTUME: Ninja
+TRIBE: LPDPG",R
+SP-155,ゲームやってて寂しいな,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-155_C.jpg,"EYE: Crying
+MOUTH: Tongue Out
+BACKGROUND: Super Mad Bomb Game
+TRIBE: PSPDPR",C
+SP-156,ウォーホル迷彩,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-156_C.jpg,"EYE: Wink
+MOUTH: Laugh
+BACKGROUND: Camouflage
+TRIBE: PRRPS",C
+SP-157,花火,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-157_R.jpg,"EYE: Open
+MOUTH: Smirk
+BACKGROUND: Firework
+TRIBE: DRDGDOR",R
+SP-158,トマト,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-158_C.jpg,"EYE: Surprised
+MOUTH: Drool
+ACCESSORY: Tomato
+TRIBE: POHYOR",C
+SP-159,パイプの煙,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-159_C.jpg,"EYE: Cross Eyes
+MOUTH: Stunned
+MOUTHWARE: Tobacco Pipe Smoke
+TRIBE: LBPYYO",C
+SP-160,ダイビング,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-160_C.jpg,"EYE: Sleeping
+MOUTH: Smile
+EYEWARE: Snorkel
+BACKGROUND: Seabed
+TRIBE: TBBBNB",C
+SP-161,タコキャップ白,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-161_R.jpg,"EYE: Open
+MOUTH: Smile
+ACCESSORY: Octopus Cap
+TRIBE: LPBLA",R
+SP-162,ブリブリグリル,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-162_C.jpg,"EYE: Cross Eyes
+MOUTH: Satisfied
+MOUTHWARE: Bling Bling Grill
+TRIBE: IDPP",C
+SP-163,スシバー,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-163_C.jpg,"EYE: Surprised
+MOUTH: Laugh
+ACCESSORY: Sushi Bar
+COSTUME: Japanese Restaurant
+TRIBE:
+BPBVDP",C
+SP-164,プロゲーマー,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-164_C.jpg,"MOUTH: Stunned
+EYEWARE: Wine Red Goggle
+ACCESSORY: PEKE BAKO
+TRIBE: FPRPP",C
+SP-165,太陽,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-165_C.jpg,"EYE: Surprised
+MOUTH: Dissatisfied
+BACKGROUND: Sun
+TRIBE: OWLRP",C
+SP-166,ピエロ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-166_R.jpg,"COSTUME: Clown
+TRIBE: OHYOR",R
+SP-167,シャッターグラス,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-167_C.jpg,"EYE: Sleeping
+MOUTH: Stunned
+EYEWARE: Shutter Glasses
+TRIBE: YHYLL",C
+SP-168,フードファイターとうどん,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-168_C.jpg,"MOUTH: Satisfied
+EYEWARE: Burning Eyes
+MOUTHWARE: Udon
+TRIBE: YLGLL",C
+SP-169,超科学,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-169_SR.jpg,"EYE: Cross Eyes
+MOUTH: Hematemesis
+ACCESSORY: Parascience
+TRIBE: IMAV",SR
+SP-171,キョンシー,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-171_R.jpg,"EYE: Surprised
+MOUTH: Laugh
+COSTUME: Jiangshi
+TRIBE: RVLCFP",R
+SP-172,ゲームのよだれ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-172_C.jpg,"EYE: Open
+MOUTH: Drool
+BACKGROUND: Super Mad Bomb Game
+TRIBE: PLPRRR",C
+SP-173,コノハ隠れの術,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-173_C.jpg,"EYE: Eyelashes
+MOUTH: Lick
+ACCESSORY: Art of Hidden Leaf
+TRIBE: RR",C
+SP-174,雷紋,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-174_C.jpg,"EYE: Eyelashes
+MOUTH: Satisfied
+BACKGROUND: Meander
+TRIBE: OSPSRR",C
+SP-175,ざるそば,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-175_C.jpg,"EYE: Wink
+MOUTH: Lick
+EYEWARE: Pilot Goggles
+MOUTHWARE: Zary Soba
+COSTUME: Japanese
+Restaurant
+TRIBE: LYGYHYDO",C
+SP-176,タコキャップピンク,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-176_R.jpg,"EYE: Open
+MOUTH: Surprised
+ACCESSORY: Octopus Cap
+TRIBE: ICCY",R
+SP-177,水面とドクロ顔,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-177_R.jpg,"MASK: Skull Face
+BACKGROUND: Water Surface
+TRIBE: PLGPGLLLG",R
+SP-178,NEOタワー,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-178_C.jpg,"EYE: Looking Away
+MOUTH: Laugh
+MOUTHWARE: Tokyo City View
+TRIBE: CVWCPCV",C
+SP-179,ペロペロキャンディー,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-179_C.jpg,"EYE: Surprised
+MOUTH: Lick
+MOUTHWARE: Lollipop
+TRIBE: DPBPCPP",C
+SP-181,マフラー,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-181_C.jpg,"EYE: Crying
+MOUTH: Hematemesis
+ACCESSORY: Scarf
+BACKGROUND: Luminous
+TRIBE: DRRS",C
+SP-182,DOB 被り物,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-182_C.jpg,"EYE: Wink
+MOUTH: Tongue Out
+ACCESSORY: DOB Headgear
+TRIBE: SHBSDO",C
+SP-183,銅メダル,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-183_SR.jpg,"EYE: Surprised
+MOUTH: Lick
+ACCESSORY: Bronze Medal
+TRIBE: KYOLODO",SR
+SP-184,金に目がくらむ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-184_C.jpg,"MOUTH: Satisfied
+EYEWARE: Dazzled by Money
+TRIBE: YWY",C
+SP-185,砂漠,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-185_C.jpg,"MOUTH: Satisfied
+EYEWARE: Ski Goggle
+BACKGROUND: Desert
+TRIBE: MLGAG",C
+SP-186,コーラ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-186_C.jpg,"EYE: Open
+MOUTH: Smirk
+ACCESSORY: Cola
+TRIBE: LGLBCG",C
+SP-187,金メダル,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-187_SR.jpg,"EYE: Open
+MOUTH: Tongue Out
+ACCESSORY: Gold Medal
+TRIBE: VLPCPV",SR
+SP-188,ゴルフ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-188_C.jpg,"EYE: Surprised
+MOUTH: Satisfied
+ACCESSORY: Cap
+COSTUME: Golf
+TRIBE: LPCP",C
+SP-189,夕陽,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-189_C.jpg,"EYE: Sleeping
+MOUTH: Drool
+BACKGROUND: Sunset
+EYEWARE: Pilot Goggles
+TRIBE: LRRR",C
+SP-190,カラオケラブソング,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-190_C.jpg,"MOUTH: Stunned
+COSTUME: Karaoke
+EYEWARE: Fall in Love
+TRIBE: BVSR",C
+SP-191,斜め縞レインボー 16×16,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-191_SR.jpg,"EYE: Looking Away
+MOUTH: Stunned
+BACKGROUND: Diagonal Rainbow 16×16
+TRIBE: BYPOODO",SR
+SP-192,八重フラワー,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-192_R.jpg,"EYE: Open
+MOUTH: Lick
+COSTUME: Many-layered Flower
+TRIBE: LGPYLY",R
+SP-193,Xゲーム,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-193_C.jpg,"EYE: Looking Away
+MOUTH: Pursed Lips
+BACKGROUND: X Game
+ACCESSORY: Earrings
+TRIBE:
+PYLG",C
+SP-194,イチゴ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-194_C.jpg,"EYE: Wink
+MOUTH: Lick
+ACCESSORY: Strawberry
+TRIBE: PGWAG",C
+SP-195,銀メダル,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-195_SR.jpg,"EYE: Cross Eyes
+MOUTH: Drool
+ACCESSORY: Silver Medal
+TRIBE: GFG",SR
+SP-196,めまいを起こす背景,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-196_C.jpg,"EYE: Cross Eyes
+MOUTH: Hematemesis
+BACKGROUND: Geometric Pattern2
+TRIBE: CPLOM",C
+SP-197,赤フチのサングラス,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-197_C.jpg,"MOUTH: Laugh
+EYEWARE: Red Frame Sunglasses
+TRIBE: CRRRV",C
+SP-198,銀行強盗,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-198_SR.jpg,"EYE: Wink
+MOUTHWARE: Bandana Mask
+BACKGROUND: Coin
+TRIBE: ORLRR",SR
+SP-199,闘病中,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-199_C.jpg,"EYE: Cross Eyes
+MOUTHWARE: MASK
+ACCESSORY: IV Drip
+TRIBE: RDOSDO",C
+SP-201,ホウタイグルグル巻きのゾンビ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-201_C.jpg,"EYE: Open
+MOUTH: Pursed Lips
+MOUTHWARE: Slime Puke
+COSTUME: Mummy
+TRIBE: PLGPYHYLG",C
+SP-202,ピザ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-202_C.jpg,"EYE: Eyelashes
+MOUTH: Surprised
+MOUTHWARE: Pizza
+TRIBE: PGLG",C
+SP-203,雪,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-203_C.jpg,"EYE: Wink
+MOUTH: Lick
+COSTUME: Snow
+TRIBE: GPLGSG",C
+SP-204,ヒゲモシャ男,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-204_C.jpg,"EYE: Sleeping
+MOUTH: Stunned
+MOUTHWARE: Mustachio Man
+TRIBE: DGMGPLGGG",C
+SP-205,レインボー,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-205_SR.jpg,"EYE: Open
+MOUTH: Satisfied
+COSTUME: Rainbow
+TRIBE: LPLYCPS",SR
+SP-206,メンチ切った目,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-206_C.jpg,"MOUTH: Lick
+EYEWARE: Glaring Eyes
+TRIBE: LRDRLRSR",C
+SP-207,オッドブロックゲーム,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-207_R.jpg,"MOUTH: Smirk
+EYEWARE: Wine Red Goggle
+BACKGROUND: Odd Block Game
+TRIBE: PPBOR",R
+SP-208,デザート迷彩,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-208_C.jpg,"EYE: Crying
+MOUTH: Drool
+BACKGROUND: Camouflage
+TRIBE: ODYS",C
+SP-209,バタフライ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-209_C.jpg,"EYE: Cross Eyes
+MOUTH: Smirk
+COSTUME: Butterfly
+TRIBE: WGLLYG",C
+SP-210,パイロットゴーグル,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-210_C.jpg,"EYE: Cross Eyes
+MOUTH: Dissatisfied
+EYEWARE: Pilot Goggles
+TRIBE: PLGWYG",C
+SP-211,茶色のサングラス,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-211_C.jpg,"MOUTH: Lick
+EYEWARE: Brown Sunglasses
+TRIBE: GPGPG",C
+SP-213,きのこ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-213_C.jpg,"EYE: Open
+MOUTH: Drool
+ACCESSORY: Mushroom
+TRIBE: DGEPLGSG",C
+SP-214,カーソル,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-214_C.jpg,"EYE: Surprised
+MOUTH: Hematemesis
+ACCESSORY: Cursor
+TRIBE: RLPMS",C
+SP-215,メルティングお花,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-215_R.jpg,"MOUTH: Dissatisfied
+COSTUME: Melting Flower
+TRIBE: LRLOLRLO",R
+SP-216,カエルが苦手,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-216_R.jpg,"EYE: Crying
+MOUTH: Tongue Out
+ACCESSORY: Frog, Bow Tie
+TRIBE: OLOMSO",R
+SP-217,砂時計,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-217_C.jpg,"EYE: Looking Away
+MOUTH: Lick
+ACCESSORY: Hourglass
+TRIBE: OGLYLYLG",C
+SP-218,竹,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-218_R.jpg,"EYE: Wink
+MOUTH: Smirk
+BACKGROUND: Bamboo
+TRIBE: LGRGOGCG",R
+SP-219,ジャングル迷彩,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-219_C.jpg,"EYE: Wink
+MOUTH: Laugh
+BACKGROUND: Camouflage
+TRIBE: LGYGYGMG",C
+SP-220,タコキャップブルー,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-220_R.jpg,"EYE: Eyelashes
+MOUTH: Smirk
+ACCESSORY: Octopus Cap
+TRIBE: YGMG",R
+SP-221,ブドウ,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-221_C.jpg,"EYE: Crying
+MOUTH: Drool
+ACCESSORY: Grape
+TRIBE: BGGSG",C
+SP-222,日本刀,https://mfctc.kaikaikiki.comassets/images/card/JP_SP-222_C.jpg,"EYE: Cross Eyes
+MOUTH: Tongue Out
+ACCESSORY: Japanese Sword
+TRIBE: DGMG",C
