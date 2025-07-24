@@ -1,0 +1,105 @@
+id,name,image_url,description,rarity
+FGW-001,レッド,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-001_C.jpg,"BODY: Black
+DISPLAY: Monochrome
+TRIBE: CRRRV",C
+FGW-002,ブルー,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-002_C.jpg,"BODY: Black
+DISPLAY: Monochrome
+TRIBE: CPBDB",C
+FGW-003,イエロー (ブラック),https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-003_C.jpg,"BODY: Black
+DISPLAY: Monochrome
+TRIBE: YHYLL",C
+FGW-004,レッド×ホワイト,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-004_C.jpg,"BODY: Black
+DISPLAY: Monochrome
+TRIBE: Red × White",C
+FGW-005,ブルー×ホワイト,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-005_C.jpg,"BODY: Black
+DISPLAY: Monochrome
+TRIBE: LBWLB",C
+FGW-006,イエロー×ホワイト,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-006_C.jpg,"BODY: Black
+DISPLAY: Monochrome
+TRIBE: YWY",C
+FGW-007,ピンク×ホワイト,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-007_C.jpg,"BODY: Black
+DISPLAY: Monochrome
+TRIBE: PWAG",C
+FGW-008,ブラック×ホワイト (ブラック),https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-008_C.jpg,"BODY: Black
+DISPLAY: Monochrome
+TRIBE: Black × White",C
+FGW-009,ブラック×ホワイト (パープル),https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-009_C.jpg,"BODY: Purple
+DISPLAY: Monochrome
+TRIBE: Black × White",C
+FGW-010,ピンク (ブラック),https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-010_C.jpg,"BODY: Black
+DISPLAY: Monochrome
+TRIBE: PCPG",C
+FGW-011,パープル×ピンク (ブラック),https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-011_C.jpg,"BODY: Black
+DISPLAY: Monochrome
+TRIBE: VLPCPV",C
+FGW-012,パープル×ピンク (パープル),https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-012_C.jpg,"BODY: Purple
+DISPLAY: Monochrome
+TRIBE: VLPCPV",C
+FGW-013,イエロー (ピンク),https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-013_R.jpg,"BODY: Pink
+DISPLAY: Monochrome
+TRIBE: YHYLL",R
+FGW-014,アイボリー (ピンク),https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-014_R.jpg,"BODY: Pink
+DISPLAY: Monochrome
+TRIBE: IMHY",R
+FGW-015,ピンク (パープル),https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-015_R.jpg,"BODY: Purple
+DISPLAY: Monochrome
+TRIBE: PCPG",R
+FGW-016,イエロー (クリア),https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-016_R.jpg,"BODY: Clear
+DISPLAY: Monochrome
+TRIBE: YHYLL",R
+FGW-017,レインボー (ブラック),https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-017_R.jpg,"BODY: Black
+DISPLAY: Monochrome
+TRIBE: Rainbow",R
+FGW-018,マルチカラー (ブラック),https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-018_R.jpg,"BODY: Black
+DISPLAY: Monochrome
+TRIBE: Multicolor",R
+FGW-019,クリア,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-019_R.jpg,"DISPLAY: Monochrome
+TRIBE: Clear",R
+FGW-020,オーロラ×ゴールド (オーロラクリア),https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-020_R.jpg,"SPECIAL: Aurora × Gold
+DISPLAY: Monochrome
+TRIBE: Clear",R
+FGW-021,マルチ×ホワイト　カラー,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-021_R.jpg,"DISPLAY: Color
+TRIBE: Multicolor",R
+FGW-022,オーロラ : ブラック×ホワイト,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-022_SR.jpg,"SPECIAL: Aurora
+DISPLAY: Color
+TRIBE: Black × White",SR
+FGW-023,レインボー×クリア　カラー,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-023_SR.jpg,"BODY: Clear
+DISPLAY: Color
+TRIBE: Rainbow",SR
+FGW-024,オーロラ : レインボー,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-024_SR.jpg,"SPECIAL: Aurora
+DISPLAY: Color
+TRIBE: Rainbow",SR
+FGW-025,オーロラ : マルチ×ホワイト,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-025_SR.jpg,"SPECIAL: Aurora
+DISPLAY: Color
+TRIBE: Multicolor",SR
+FGW-026,オーロラ : レインボー×クリア,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-026_SR.jpg,"BODY: Clear
+SPECIAL: Aurora
+DISPLAY: Color
+TRIBE: Rainbow",SR
+FGW-027,オーロラ　カラー,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-027_SR.jpg,"BODY: Clear
+SPECIAL: Aurora
+DISPLAY: Color
+TRIBE: Clear",SR
+FGW-028,クリア　カラー,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-028_SR.jpg,"BODY: Clear
+DISPLAY: Color
+TRIBE: Clear",SR
+FGW-029,レインボー　カラー,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-029_UR.jpg,"DISPLAY: Color
+TRIBE: Rainbow",UR
+FGW-030,ゆうびんきょく,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-030_UR.jpg,"EYE: Open
+MOUTH: Smile
+BACKGROUND: Post office
+TRIBE: PWAG",UR
+FGW-031,やまのうえのじんじゃ,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-031_UR.jpg,"EYE: Surprised
+MOUTH: Laugh
+BACKGROUND: Shrine on the mountain
+TRIBE: Ivory × Cyan",UR
+FGW-032,としょかん,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-032_UR.jpg,"EYE: Open
+MOUTH: Stunned
+BACKGROUND: Library
+TRIBE: CPLOM",UR
+FGW-033,歩道 花子,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-033_SA.jpg,"SPECIAL: FGW
+ACCESSORY: Figure, Headset
+BACKGROUND: Next town over",SA
+FGW-034,花王 歩,https://mfctc.kaikaikiki.comassets/images/card/JP_FGW-034_SA.jpg,"SPECIAL: FGW
+ACCESSORY: Flower, Headphones
+BACKGROUND: Lost Woods",SA
